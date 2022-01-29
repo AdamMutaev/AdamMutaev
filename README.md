@@ -1,4 +1,4 @@
-[![Header](https://github.com/AdamMutaev/AdamMutaev/blob/main/assets/profile.png)]
+![Header](https://github.com/AdamMutaev/AdamMutaev/blob/main/assets/profile.png)
 
 ## I'm a beginner Full-Stack Developer
 
