@@ -1,6 +1,6 @@
 Header
 
-## I'm beginner Full-Stack Developer
+## I'm a beginner Full-Stack Developer
 
 ### Languages and Tools
 <p>
@@ -29,5 +29,5 @@ Header
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/Adam_Mutaev)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/23adam2/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/79287860615)
-![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte&logoColor=4F7DB3)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-111111?style=for-the-badge&logo=Vkontakte)](https://vk.com/id523121340)
+[![FaceBook](https://img.shields.io/badge/FaceBook-111111?style=for-the-badge&logo=FaceBook)](https://www.facebook.com/profile.php?id=100077584514469)
