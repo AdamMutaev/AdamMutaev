@@ -3,7 +3,8 @@ Header
 ## I'm beginner Front-End Developer
 
 ### Languages and Tools
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -22,6 +23,7 @@ Header
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-rgb(242, 78, 30)?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="WebPack" src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman" />
+</p>
 
 ### Follow me
 ![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
