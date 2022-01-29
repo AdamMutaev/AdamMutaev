@@ -10,4 +10,9 @@ Header
 ![Redux](https://img.shields.io/badge/-Redux-6f00ff?style=for-the-badge&logo=Redux&logoColor=6f00ff)
 ![Redux-Thunk](https://img.shields.io/badge/-Redux-Thunk-6f00ff?style=for-the-badge&logo=Redux-Thunk&logoColor=6f00ff)
 
-Follow me
+### Follow me
+![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=B4068E)
+![WhatSapp](https://img.shields.io/badge/-WhatSapp-090909?style=for-the-badge&logo=WhatSapp&logoColor=32fc00)
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte&logoColor=4F7DB3)
