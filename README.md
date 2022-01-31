@@ -1,4 +1,4 @@
-## Hello! I'M Adam
+## Hello! I'm Adam
 
 ## I'm a beginner Front-End Developer
 
