@@ -1,4 +1,4 @@
-![Header](https://github.com/AdamMutaev/AdamMutaev/blob/main/assets/profile.png)
+## Hello! I'M Adam
 
 ## I'm a beginner Front-End Developer
 
