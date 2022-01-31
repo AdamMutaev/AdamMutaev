@@ -1,6 +1,6 @@
 ![Header](https://github.com/AdamMutaev/AdamMutaev/blob/main/assets/profile.png)
 
-## I'm a beginner Full-Stack Developer
+## I'm a beginner Front-End Developer
 
 ### Languages and Tools
 <p>
