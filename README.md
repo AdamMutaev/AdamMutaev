@@ -1,6 +1,6 @@
 ## Hello! I'm Adam
 
-## I'm a beginner Front-End Developer
+## I'm a Front-End Developer
 
 ## My projects
 <a href='https://my-project-gym.herokuapp.com/'>демо <a/>
